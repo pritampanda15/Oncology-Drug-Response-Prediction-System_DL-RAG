@@ -81,13 +81,13 @@ This system combines **Deep Learning** and **Retrieval-Augmented Generation (RAG
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    Streamlit Web Interface                   │
-│         (Patient Selection • Visualization • Export)         │
+│                    Streamlit Web Interface                  │
+│         (Patient Selection • Visualization • Export)        │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
-│                   DrugResponseTool (Core)                    │
-│         • Model Loading  • Prediction  • Orchestration       │
+│                   DrugResponseTool (Core)                   │
+│         • Model Loading  • Prediction  • Orchestration      │
 └─────────────────────────────────────────────────────────────┘
                     ↓                           ↓
     ┌───────────────────────────┐   ┌──────────────────────────┐
@@ -100,11 +100,11 @@ This system combines **Deep Learning** and **Retrieval-Augmented Generation (RAG
     └───────────────────────────┘   └──────────────────────────┘
                     ↓                           ↓
               ┌──────────────────────────────────────┐
-              │         Prediction + Explanation      │
-              │  • Response class                     │
-              │  • Confidence score                   │
-              │  • Top genes                          │
-              │  • Biological rationale               │
+              │         Prediction + Explanation     │
+              │  • Response class                    │
+              │  • Confidence score                  │
+              │  • Top genes                         │
+              │  • Biological rationale              │
               └──────────────────────────────────────┘
 ```
 
