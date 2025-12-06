@@ -1,4 +1,4 @@
-# 🧬 Oncology Drug Response Prediction System
+# Oncology Drug Response Prediction System
 
 <div align="center">
 
@@ -410,22 +410,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 6. Push to the branch (`git push origin feature/amazing-feature`)
 7. Open a Pull Request
 
----
-
-## 📝 Citation
-
-If you use this system in your research, please cite:
-
-```bibtex
-@software{oncology_drug_response_prediction,
-  title={Oncology Drug Response Prediction System},
-  author={Your Name},
-  year={2025},
-  url={https://github.com/yourusername/oncology_cds}
-}
-```
-
----
 
 ## 📜 License
 
@@ -445,7 +429,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue on GitHub or contact [your.email@example.com](mailto:your.email@example.com)
+For questions or feedback, please open an issue on GitHub or contact [pritam@stanford.edu](mailto:pritam@stanford.edu)
 
 ---
 
@@ -453,6 +437,6 @@ For questions or feedback, please open an issue on GitHub or contact [your.email
 
 **Built with ❤️ for advancing precision oncology**
 
-[Report Bug](https://github.com/yourusername/oncology_cds/issues) • [Request Feature](https://github.com/yourusername/oncology_cds/issues)
+[Report Bug](https://github.com/pritampanda15/Oncology-Drug-Response-Prediction-System_DL-RAG/issuess) • [Request Feature](https://github.com/pritampanda15/Oncology-Drug-Response-Prediction-System_DL-RAG/issues)
 
 </div>
