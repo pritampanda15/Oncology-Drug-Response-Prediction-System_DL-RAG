@@ -1,0 +1,19 @@
+Cisplatin and DNA Damage Response
+
+Cisplatin is a platinum-based chemotherapy drug that forms DNA crosslinks, triggering apoptosis in cancer cells. The primary mechanism involves binding to purine bases in DNA, causing intrastrand and interstrand crosslinks that block DNA replication and transcription.
+
+Key genes affecting cisplatin response:
+
+ERCC1: Excision repair cross-complementation group 1 is critical for nucleotide excision repair. High ERCC1 expression is associated with cisplatin resistance because cells can efficiently repair platinum-induced DNA damage. Studies show patients with low ERCC1 expression have better response to platinum-based chemotherapy.
+
+BRCA1 and BRCA2: These tumor suppressor genes are involved in homologous recombination repair. BRCA1/2 deficient tumors are typically more sensitive to cisplatin because they cannot repair DNA crosslinks effectively. This is the basis for platinum sensitivity in BRCA-mutated ovarian and breast cancers.
+
+TP53: The tumor suppressor p53 mediates apoptosis in response to DNA damage. Functional TP53 is generally associated with better cisplatin response as damaged cells undergo programmed cell death. TP53 mutations may confer resistance by allowing cells to survive despite DNA damage.
+
+MLH1 and MSH2: Mismatch repair genes that contribute to cisplatin cytotoxicity. Deficiency in mismatch repair (microsatellite instability) can lead to cisplatin resistance.
+
+GSTP1: Glutathione S-transferase pi 1 is involved in drug detoxification. High GSTP1 expression can inactivate cisplatin before it reaches DNA, conferring resistance.
+
+ATP7A and ATP7B: Copper transporters that can efflux platinum compounds from cells. Overexpression leads to reduced intracellular cisplatin accumulation and resistance.
+
+Clinical considerations: Cisplatin is used in testicular, ovarian, bladder, lung, and head and neck cancers. Nephrotoxicity and ototoxicity are major dose-limiting side effects. Carboplatin is an alternative with reduced toxicity but potentially lower efficacy in some contexts.

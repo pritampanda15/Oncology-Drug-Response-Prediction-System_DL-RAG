@@ -1,0 +1,20 @@
+Gemcitabine Mechanism and Response Biomarkers
+Gemcitabine is a nucleoside analog that inhibits DNA synthesis by incorporating into DNA and blocking chain elongation. It is phosphorylated intracellularly to its active forms, gemcitabine diphosphate and triphosphate, which interfere with ribonucleotide reductase and DNA polymerase respectively.
+
+Key genes affecting gemcitabine response:
+
+RRM1: Ribonucleotide reductase catalytic subunit M1 is the primary target of gemcitabine diphosphate. High RRM1 expression is strongly associated with gemcitabine resistance because it overwhelms drug inhibition. Low RRM1 expression predicts better response in pancreatic and lung cancers.
+
+RRM2: The regulatory subunit of ribonucleotide reductase. Overexpression contributes to gemcitabine resistance by maintaining nucleotide pools despite drug inhibition.
+
+DCK: Deoxycytidine kinase performs the rate-limiting phosphorylation step activating gemcitabine. Low DCK expression leads to reduced drug activation and resistance. DCK deficiency is a common resistance mechanism.
+
+CDA: Cytidine deaminase inactivates gemcitabine by deamination. High CDA expression accelerates drug clearance, reducing efficacy. CDA polymorphisms affect gemcitabine toxicity and response.
+
+hENT1: Human equilibrative nucleoside transporter 1 is required for gemcitabine uptake into cells. Low hENT1 expression limits intracellular drug concentration and confers resistance. hENT1 is a validated predictive biomarker in pancreatic cancer.
+
+DCTD: Deoxycytidylate deaminase can inactivate gemcitabine monophosphate. Elevated DCTD activity reduces active drug metabolite levels.
+
+TP53: Functional p53 enhances gemcitabine-induced apoptosis. TP53 mutations may reduce sensitivity by impairing cell death pathways.
+
+Clinical considerations: Gemcitabine is standard therapy for pancreatic cancer and used in bladder, lung, breast, and ovarian cancers. Myelosuppression is the primary dose-limiting toxicity. Combination with cisplatin or nab-paclitaxel improves efficacy in specific settings.

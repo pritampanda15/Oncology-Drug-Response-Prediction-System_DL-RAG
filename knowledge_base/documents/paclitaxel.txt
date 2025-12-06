@@ -1,0 +1,24 @@
+Paclitaxel Mechanism and Response Biomarkers
+Paclitaxel is a taxane that stabilizes microtubules, preventing their depolymerization during cell division. This disrupts mitotic spindle function, causing cell cycle arrest at G2/M phase and subsequent apoptosis. Paclitaxel binds to beta-tubulin subunits within assembled microtubules.
+
+Key genes affecting paclitaxel response:
+
+TUBB3: Beta-tubulin class III is associated with paclitaxel resistance. High TUBB3 expression alters microtubule dynamics and reduces drug binding affinity. TUBB3 overexpression is observed in resistant ovarian and lung cancers.
+
+ABCB1 (MDR1): ATP-binding cassette transporter encoding P-glycoprotein, a major efflux pump for taxanes. ABCB1 overexpression actively pumps paclitaxel out of cells, reducing intracellular concentration and causing multidrug resistance.
+
+ABCC1 (MRP1): Another efflux transporter contributing to paclitaxel resistance through drug export.
+
+CYP2C8: Cytochrome P450 enzyme responsible for paclitaxel metabolism. CYP2C8 polymorphisms affect drug clearance and toxicity. Poor metabolizers experience increased toxicity.
+
+CYP3A4: Secondary metabolizing enzyme for paclitaxel. Drug interactions affecting CYP3A4 alter paclitaxel pharmacokinetics.
+
+BCL2: Anti-apoptotic protein. High BCL2 expression can prevent paclitaxel-induced apoptosis, conferring resistance.
+
+TP53: Functional p53 is required for optimal apoptotic response to paclitaxel-induced mitotic arrest. TP53 mutations may reduce sensitivity.
+
+MAP4: Microtubule-associated protein 4 regulates microtubule stability. Altered MAP4 phosphorylation affects paclitaxel sensitivity.
+
+BRCA1: BRCA1 deficiency may increase paclitaxel sensitivity in some contexts by impairing DNA damage repair during mitotic stress.
+
+Clinical considerations: Paclitaxel is used in breast, ovarian, lung, and head and neck cancers. Peripheral neuropathy and myelosuppression are major toxicities. Albumin-bound paclitaxel (nab-paclitaxel) has improved delivery to tumors. Docetaxel is a related taxane with similar mechanisms but different pharmacokinetics.

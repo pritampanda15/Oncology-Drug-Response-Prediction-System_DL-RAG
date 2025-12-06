@@ -1,0 +1,21 @@
+Docetaxel and Microtubule Dynamics
+
+Docetaxel is a taxane chemotherapy agent that stabilizes microtubules, preventing their depolymerization. This blocks mitotic spindle function, causing cell cycle arrest at the G2/M phase and subsequent apoptosis.
+
+Key genes affecting docetaxel response:
+
+TUBB3: Beta-tubulin class III is the primary drug target. High TUBB3 expression is consistently associated with taxane resistance across multiple cancer types. TUBB3 overexpression alters microtubule dynamics, reducing docetaxel binding affinity.
+
+ABCB1 (MDR1/P-glycoprotein): This efflux transporter actively pumps taxanes out of cells. ABCB1 overexpression is a major mechanism of acquired taxane resistance. Tumors with high baseline ABCB1 may show primary resistance.
+
+ABCC1 (MRP1): Another efflux transporter contributing to multidrug resistance. Works synergistically with ABCB1 to reduce intracellular drug accumulation.
+
+MAP4: Microtubule-associated protein 4 regulates microtubule stability. Phosphorylation status of MAP4 affects taxane sensitivity.
+
+STMN1 (Stathmin): A microtubule-destabilizing protein. High stathmin expression opposes taxane action and correlates with resistance.
+
+BCL2: Anti-apoptotic protein that can prevent taxane-induced cell death. BCL2 overexpression is associated with reduced taxane efficacy.
+
+CYP3A4: Primary enzyme metabolizing docetaxel. Genetic polymorphisms and drug interactions affecting CYP3A4 activity alter docetaxel pharmacokinetics and toxicity.
+
+Clinical considerations: Docetaxel is used in breast, prostate, gastric, head and neck, and non-small cell lung cancers. Neutropenia is the primary dose-limiting toxicity. Fluid retention and peripheral neuropathy are also common adverse effects.

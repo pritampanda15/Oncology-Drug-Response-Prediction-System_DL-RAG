@@ -1,0 +1,105 @@
+cisplatin:
+  dna_repair:
+    - ERCC1
+    - ERCC2
+    - XPA
+    - XPC
+    - BRCA1
+    - BRCA2
+    - RAD51
+    - ATM
+    - ATR
+    - CHEK1
+    - CHEK2
+  
+  apoptosis:
+    - TP53
+    - BAX
+    - BCL2
+    - BCL2L1
+    - CASP3
+    - CASP9
+    - APAF1
+  
+  drug_transport:
+    - ATP7A
+    - ATP7B
+    - CTR1
+    - SLC31A1
+    - ABCC2
+  
+  detoxification:
+    - GSTP1
+    - GSTM1
+    - GSTT1
+    - MT1A
+    - MT2A
+  
+  mismatch_repair:
+    - MLH1
+    - MSH2
+    - MSH6
+    - PMS2
+
+docetaxel:
+  microtubule:
+    - TUBB3
+    - TUBB1
+    - MAP4
+    - STMN1
+    - MAP2
+  
+  efflux:
+    - ABCB1
+    - ABCC1
+    - ABCC2
+    - ABCG2
+  
+  apoptosis:
+    - BCL2
+    - TP53
+    - BAX
+    - BIRC5
+  
+  metabolism:
+    - CYP2C8
+    - CYP3A4
+    - CYP3A5
+
+gemcitabine:
+  activation:
+    - DCK
+    - CMPK1
+    - NME1
+  
+  inactivation:
+    - CDA
+    - DCTD
+    - NT5C
+  
+  transport:
+    - SLC29A1
+    - SLC28A1
+    - SLC28A3
+  
+  target:
+    - RRM1
+    - RRM2
+    - TYMS
+
+paclitaxel:
+  microtubule:
+    - TUBB3
+    - TUBB1
+    - MAP4
+    - STMN1
+  
+  efflux:
+    - ABCB1
+    - ABCC1
+    - ABCC10
+  
+  apoptosis:
+    - BCL2
+    - TP53
+    - BAX
